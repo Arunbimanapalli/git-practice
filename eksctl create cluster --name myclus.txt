@@ -1,0 +1,5 @@
+eksctl create cluster --name mykubes --node-type t2.large --nodes 3 --region us-east-2
+
+
+
+
